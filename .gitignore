@@ -1,0 +1,12 @@
+dataset/
+*.zip
+*.apk
+*.tflite
+*.pt
+*.pb
+*.h5
+*.model
+__pycache__/
+.env
+venv/
+build/
